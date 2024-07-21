@@ -15,8 +15,7 @@ requests:
       - type: word
         words:
           - "Admin Panel"
-        condition: or
-        part: body
+
       - type: status
         status:
           - 200
