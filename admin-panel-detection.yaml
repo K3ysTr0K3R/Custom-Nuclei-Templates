@@ -11,6 +11,7 @@ requests:
     path:
       - "{{BaseURL}}/admin"
 
+    matchers-condition: and
     matchers:
       - type: word
         words:
