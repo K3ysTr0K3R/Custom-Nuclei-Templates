@@ -7,7 +7,7 @@ info:
   description: This template detects GPON routers.
 
 requests:
-  - methodi:
+  - method: GET
     path:
       - "{{BaseURL}}"
 
@@ -15,8 +15,7 @@ requests:
       - type: word
         words:
         - "<title>GPON Home Gateway</title>"
-        condition: or
-        part: body
+
       - type: status
         status:
           - 200
