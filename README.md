@@ -23,9 +23,9 @@ You can also specify individual templates or directories as needed.
 
 This section provides a brief description of each template included in this repository:
 
-- **Template 1**: Description of what it detects and how it works.
-- **Template 2**: Description of what it detects and how it works.
-- **Template 3**: Description of what it detects and how it works.
+- **Template 1**: admin-panel-detect.yaml, a template used to detect admin panels.
+- **Template 2**: gargoyle-router-detect.yaml, a template for detecting Gargoyle routers.
+- **Template 3**: tplink-router-detect.yaml, this template will look for TP-Link routers.
 
 # Contributing
 
