@@ -11,7 +11,7 @@ Nuclei is a powerful tool for fast and customizable vulnerability scanning. This
 Clone this repository and place the templates in your Nuclei templates directory:
 
 ```
-git clone https://github.com/yourusername/custom-nuclei-templates.git
+git clone https://github.com/K3ysTr0K3R/Custom-Nuclei-Templates.git
 cd custom-nuclei-templates
 
 # Copy templates to Nuclei directory
